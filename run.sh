@@ -1,0 +1,1 @@
+docker run -itd --name sql_aoc --privileged=true -p 50000:50000 -e LICENSE=accept -e DB2INST1_PASSWORD=db2rock$ -e DBNAME=aocdb -v /Users/ecrooks/Documents/GitHub/aoc2021_SQL/data:/database db2_sql_aoc

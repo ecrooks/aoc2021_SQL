@@ -1,0 +1,6 @@
+
+.ipynb_checkpoints/
+
+data/*
+!data/sql_aoc/
+.DS_Store
