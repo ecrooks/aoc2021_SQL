@@ -4,3 +4,5 @@
 data/*
 !data/sql_aoc/
 .DS_Store
+db2connect.pickle
+db2.ipynb
